@@ -17,5 +17,5 @@ I used Python with Selenium to scrape Glassdoor for job descriptions and pandas 
 <p>
   PYTHON, PHP, AWS EC2, AWS LAMBDA, HTML, CSS, JAVASCRIPT, BOOTSTRAP
 </p>
-
+---
 <img src ="img/culturematcher.gif">
